@@ -5,11 +5,11 @@ Dies ist ein relationales Datenbanksystem zur Verwaltung eines Zoos. Es verwalte
 
 > **Hinweis:** Dieses Projekt wurde im Rahmen einer Weiterbildung als **Teamprojekt** entwickelt. 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Datenbank:** Microsoft SQL Server (T-SQL)
 * **Tools:** SQL Server Management Studio (SSMS)
 
-## 🎯 Meine persönlichen Beiträge (Hamza Ifa)
+##  Meine persönlichen Beiträge (Hamza Ifa)
 Als Teil des Entwicklungsteams war ich speziell für die **Business-Logik, Compliance und Mitarbeiterverwaltung** zuständig. Folgende Objekte wurden von mir entwickelt:
 
 ### 1. Stored Procedure: `sp_TierZuweisen`
@@ -31,6 +31,6 @@ Das Repository enthält ein vollständiges Backup-Skript der Datenbank, das folg
 * Trigger für Datenintegrität
 * Testdaten
 
-## 🚀 Installation & Ausführung
+##  Installation & Ausführung
 1. Öffnen Sie SQL Server Management Studio (SSMS).
 2. Führen Sie das Skript `20260827_Backup_DB_Script_ZooManagement.sql` aus, um die Datenbank `ZooManagement` zu erstellen und alle Objekte sowie Testdaten zu importieren.
